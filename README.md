@@ -5,3 +5,5 @@ This is a project I built in my second year of studies as a fun way to learn and
 Key features:
   - User-friendly interface built with CSS gradients, shadow effects and rounded corners for a smooth and visually appealing experience
   - Uses OpenAI's DALL-E API to dynamically fetch and display generated dog images from validated user prompts
+
+Technologies used: HTML, CSS, JavaScript, DALL-E API
